@@ -1,0 +1,10 @@
+{
+  "name": "ecs-node-app",
+  "version": "1.0.0",
+  "description": "Basic Node.js app for ECS deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
