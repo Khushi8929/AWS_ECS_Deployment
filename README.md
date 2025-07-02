@@ -105,6 +105,8 @@ Result :
 - ECS Fargate cluster and service (with task definition)
 - IAM roles for ECS tasks
 - CloudWatch log group for container logs
+
+
 AWS infrastructure is now fully provisioned and ready to deploy containers.
 
 
