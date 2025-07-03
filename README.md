@@ -75,7 +75,7 @@ Enter:
 ##  Initialize, Plan, and Apply Terraform
 Inside your /terraform folder:
 
- Initialize providers and modules
+ Initialize providers and modules:
 
 ```bash
  terraform init
@@ -83,7 +83,7 @@ Inside your /terraform folder:
 ```
 This downloads AWS provider and prepares your modules.
 
-Plan your deployment
+Plan your deployment:
 
 ```bash
 terraform plan
